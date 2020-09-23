@@ -26,6 +26,12 @@
 		"@typescript-eslint"
 	],
 	"rules": {
+		"indent": [
+			2,
+			"tab"
+		],
+		"react/jsx-props-no-spreading": "off",
+		"react/prop-types": "off",
 		"no-tabs": "off",
 		"no-use-before-define": "off",
 		"react/jsx-indent": [
